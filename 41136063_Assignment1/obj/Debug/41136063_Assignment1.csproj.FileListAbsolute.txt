@@ -1,0 +1,17 @@
+C:\Users\41136063\source\repos\41136063_Assignment1\41136063_Assignment1\bin\Debug\BeetleCafDB.mdf
+C:\Users\41136063\source\repos\41136063_Assignment1\41136063_Assignment1\bin\Debug\BeetleCafDB_log.ldf
+C:\Users\41136063\source\repos\41136063_Assignment1\41136063_Assignment1\bin\Debug\41136063_Assignment1.exe.config
+C:\Users\41136063\source\repos\41136063_Assignment1\41136063_Assignment1\bin\Debug\41136063_Assignment1.exe
+C:\Users\41136063\source\repos\41136063_Assignment1\41136063_Assignment1\bin\Debug\41136063_Assignment1.pdb
+C:\Users\41136063\source\repos\41136063_Assignment1\41136063_Assignment1\obj\Debug\41136063_Assignment1.csproj.AssemblyReference.cache
+C:\Users\41136063\source\repos\41136063_Assignment1\41136063_Assignment1\obj\Debug\_41136063_Assignment1.Form1.resources
+C:\Users\41136063\source\repos\41136063_Assignment1\41136063_Assignment1\obj\Debug\_41136063_Assignment1.frmOrder.resources
+C:\Users\41136063\source\repos\41136063_Assignment1\41136063_Assignment1\obj\Debug\_41136063_Assignment1.Properties.Resources.resources
+C:\Users\41136063\source\repos\41136063_Assignment1\41136063_Assignment1\obj\Debug\41136063_Assignment1.csproj.GenerateResource.cache
+C:\Users\41136063\source\repos\41136063_Assignment1\41136063_Assignment1\obj\Debug\41136063_Assignment1.csproj.CoreCompileInputs.cache
+C:\Users\41136063\source\repos\41136063_Assignment1\41136063_Assignment1\obj\Debug\41136063_Assignment1.exe
+C:\Users\41136063\source\repos\41136063_Assignment1\41136063_Assignment1\obj\Debug\41136063_Assignment1.pdb
+C:\Users\41136063\source\repos\41136063_Assignment1\41136063_Assignment1\obj\Debug\_41136063_Assignment1.frmStaffLogIn.resources
+C:\Users\41136063\source\repos\41136063_Assignment1\41136063_Assignment1\obj\Debug\_41136063_Assignment1.frmStaff.resources
+C:\Users\41136063\source\repos\41136063_Assignment1\41136063_Assignment1\obj\Debug\_41136063_Assignment1.frmInsertProduct.resources
+C:\Users\41136063\source\repos\41136063_Assignment1\41136063_Assignment1\obj\Debug\_41136063_Assignment1.frmUpdateProducts.resources
